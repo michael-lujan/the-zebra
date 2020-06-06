@@ -1,0 +1,8 @@
+name,type,is_nullable,version
+Provider Name,String,No,1
+CampaignID,String,No,1
+Cost Per Ad Click,Float,No,1
+Redirect Link,String,No,1
+Phone Number,String,Yes,1
+Address,String,No,1
+Zipcode,String,No,1

@@ -1,0 +1,6 @@
+Provider Name,CampaignID,Phone Number,Redirect Link,Zipcode,Address
+Pet R' Us,HOME,1234567,homerus.com,"""78705""",Tim Street
+PetGuard,HOME1,1234567,homeguard.com,"""78705""",Tam Street
+WeProtectPets,HOME2,1234567,weprotect.com,"""78705""",
+PetsOnly,HOME3,,homesonly.com,"""78705""",6th Street
+Pets4U,HOME5,1234567,homes4u.com,"""78705""",North Pole
